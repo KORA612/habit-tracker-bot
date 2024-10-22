@@ -4,6 +4,9 @@
 # Python virtual environment
 venv/
 
+# Personal files
+.personal
+
 # Python cache files
 __pycache__/
 *.py[cod]
@@ -19,5 +22,6 @@ build/
 *.egg-info/
 
 # Local development settings
+*.ogg
 *.log
 .DS_Store
