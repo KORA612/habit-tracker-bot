@@ -120,4 +120,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, email `radmehrkooshan@gmail.com` or create an issue in the repository.
 
 ---
-Made with ❤️ by [Your Name]
+Good Luck!
